@@ -1,1 +1,1 @@
-Hello, my name is Maria.
+Hello, my name is Maria and I am 29 years old. I started learning programming not long ago and my goal is to become a professional web developer. I love coding.
